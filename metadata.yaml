@@ -1,0 +1,31 @@
+_repo: Uncle-Sam-s-Boys-with-Pershing-s-TroopsDick-Prescott-at-Grips-with-the-Boche_12810
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_bookshelf:
+- World War I
+- Children's Book Series
+gutenberg_issued: '2004-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States. Army -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- GITenberg
+title: "Uncle Sam's Boys with Pershing's Troops\r\nOr, Dick Prescott at Grips with\
+  \ the Boche"
+url: http://www.gutenberg.org/ebooks/12810
